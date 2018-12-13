@@ -19,3 +19,5 @@ Another source link: [doc.html]
 Or this: (doc.html)[doc.html]
 
 Only this works: [doc.html](doc.html)
+
+Why does this work: [www.google.com] but this does not? [doc.html]
