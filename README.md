@@ -17,3 +17,5 @@ This one should render, but is absolute as well: [absolute rendered HTML](https:
 Another source link: [doc.html]
 
 Or this: (doc.html)[doc.html]
+
+Only this works: [doc.html](doc.html)
